@@ -1,0 +1,7 @@
+$kind: http-request
+description: ""
+url: http://localhost:4000/student/:id
+method: GET
+pathVariables:
+  id: "1001"
+order: 1000
